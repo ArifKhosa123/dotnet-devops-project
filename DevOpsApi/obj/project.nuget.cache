@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "lqWq7VMs5lw=",
+  "dgSpecHash": "3+eiue8Cz/4=",
   "success": true,
   "projectFilePath": "/workspaces/dotnet-devops-project/DevOpsApi/DevOpsApi.csproj",
   "expectedPackageFiles": [
@@ -10,10 +10,7 @@
     "/home/codespace/.nuget/packages/swashbuckle.aspnetcore/8.0.0/swashbuckle.aspnetcore.8.0.0.nupkg.sha512",
     "/home/codespace/.nuget/packages/swashbuckle.aspnetcore.swagger/8.0.0/swashbuckle.aspnetcore.swagger.8.0.0.nupkg.sha512",
     "/home/codespace/.nuget/packages/swashbuckle.aspnetcore.swaggergen/8.0.0/swashbuckle.aspnetcore.swaggergen.8.0.0.nupkg.sha512",
-    "/home/codespace/.nuget/packages/swashbuckle.aspnetcore.swaggerui/8.0.0/swashbuckle.aspnetcore.swaggerui.8.0.0.nupkg.sha512",
-    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/8.0.22/microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
-    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.22/microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512",
-    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.22/microsoft.netcore.app.host.linux-x64.8.0.22.nupkg.sha512"
+    "/home/codespace/.nuget/packages/swashbuckle.aspnetcore.swaggerui/8.0.0/swashbuckle.aspnetcore.swaggerui.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }
